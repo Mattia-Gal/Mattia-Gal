@@ -3,14 +3,19 @@
 <!--
 **Mattia-Gal/Mattia-Gal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm Mattia, a Data-driven digital marketer with over 5 years of experience in media, marketing, and sales, leveraging results to inform strategic decisions. Proven expertise in developing and implementing end-to-end paid acquisition strategies. Upskilling now to data and digital analysis, providing crucial insights to guide companies in making informed, business data-driven decisions.
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 📊 Data Viz: Looker Studio, Power BI
+- 📈 Analytics: GA4
+- ⚙️ Data Transformation: Big Query
+- Data Collection: Google Sheets, Google TAG Manager
+- 🌱 I’m currently learning: Python 🐍, Qilk
+- 👯 I’m looking to collaborate on Digital Performance Analysis, Digital Analysis 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about the services I provide: Growth Marketing, Digital Strategies, Digital Tracking, Digital Analytics, Data Analysis
+- 📫 How to reach me: mattia.galiano@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: every time I go to a new place I look for the best kebabs 🌯
 -->
